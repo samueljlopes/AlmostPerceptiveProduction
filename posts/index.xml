@@ -6,13 +6,22 @@
     <description>Recent content in Posts on Almost Perceptive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://almostperceptive.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The (99%) Invisible Hand</title>
+      <title>I is a strange loop.</title>
+      <link>http://almostperceptive.com/posts/a-strange-loop/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0100</pubDate>
+      
+      <guid>http://almostperceptive.com/posts/a-strange-loop/</guid>
+      <description>Gödel, Escher, Bach (GEB) is a rare book than manages to seep into the collective consciousness without anyone having realised. What has been described as &amp;lsquo;a philosophy book disguised as a book of entertainment disguised as a book of instruction&amp;rsquo; made a big splash when it was first released, even winning the 1980 Pulitzer Prize, has managed to fade away into a cult classic. This is surprising for two reasons; it makes a series of fascinating and insightful points, and it arrived at an pivotal point in the development of modern-day artificial intelligence.</description>
+    </item>
+    
+    <item>
+      <title>The (99%) Invisible Hand.</title>
       <link>http://almostperceptive.com/posts/the-invisible-hand/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0100</pubDate>
       
