@@ -4,16 +4,21 @@
   
   <url>
     <loc>http://almostperceptive.com/</loc>
-    <lastmod>2020-08-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://almostperceptive.com/posts/a-strange-loop/</loc>
-    <lastmod>2020-08-04T00:00:00+01:00</lastmod>
+    <lastmod>2020-08-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://almostperceptive.com/posts/</loc>
+    <lastmod>2020-08-11T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://almostperceptive.com/posts/kafka-esque/</loc>
+    <lastmod>2020-08-11T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://almostperceptive.com/posts/a-strange-loop/</loc>
     <lastmod>2020-08-04T00:00:00+01:00</lastmod>
   </url>
   

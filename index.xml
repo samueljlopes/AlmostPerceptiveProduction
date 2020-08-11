@@ -6,10 +6,19 @@
     <description>Recent content on Almost Perceptive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://almostperceptive.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resistance is futile?</title>
+      <link>http://almostperceptive.com/posts/kafka-esque/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0100</pubDate>
+      
+      <guid>http://almostperceptive.com/posts/kafka-esque/</guid>
+      <description>The theme of this week appears to be bureaucracy. From the years-long mismanagement that caused a large store of ammonium nitrate to ignite in Beirut, or the scandal over exam results in the UK following the pandemic, incompetence and institutions appear to go hand in hand. The word people used to describe the opaque workings of national institution is &amp;lsquo;Kafkaesque&amp;rsquo;, where the object of power cannot be clearly seen. It was not just one man&amp;rsquo;s failing that brought about the devastation in Beirut, but a large and complex web of smaller incompetencies and misunderstandings that led to one catastrophic conclusion.</description>
+    </item>
     
     <item>
       <title>I is a strange loop.</title>
